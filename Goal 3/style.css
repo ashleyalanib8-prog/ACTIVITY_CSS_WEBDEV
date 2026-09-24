@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    background-color: #fff0dc;
+    font-family: "Times New Roman", serif;
+}
+
+.hello {
+    background-color: #91bd8e;
+    color: white;
+
+    height: 100px;
+    margin: 48px 20px 55px 12px;
+
+    font-size: 80px;
+    font-weight: bold;
+
+    padding-left: 0;
+}
+
+.world {
+    background-color: #c88b3c;
+    color: white;
+
+    height: 75px;
+    margin: 0 20px 0 12px;
+
+    font-size: 65px;
+    font-weight: bold;
+
+    padding-left: 0;
+}

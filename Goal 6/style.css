@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 30px;
+    background-color: white;
+}
+
+.outer-box {
+    background-color: purple;
+    padding: 40px;
+    width: 100%;
+}
+
+.inner-box {
+    background-color: blue;
+    padding: 40px;
+}
+
+h1 {
+    color: yellow;
+    font-family: Georgia, serif;
+    font-size: 60px;
+    font-weight: normal;
+    margin: 0 0 5px 0;
+}
+
+.red-box {
+    background-color: red;
+    padding: 30px 40px;
+    margin-bottom: 75px;
+}
+
+.red-box p {
+    color: white;
+    font-family: Georgia, serif;
+    font-size: 60px;
+    margin: 0;
+}

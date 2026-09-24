@@ -1,0 +1,53 @@
+* {
+    font-family: "Times New Roman", serif;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+ol {
+    width: 100%;
+    padding: 0;
+    margin: 0 auto;
+    text-align: center;
+    list-style-position: inside;
+    font-size: 30px;
+    line-height: 1.25;
+}
+
+ol li {
+    text-align: center;
+}
+
+.element {
+    color: red;
+}
+
+.id-selector {
+    color: green;
+}
+
+.attribute {
+    color: blue;
+}
+
+ol li:nth-child(2),
+ol li:nth-child(5) {
+    color: black;
+}

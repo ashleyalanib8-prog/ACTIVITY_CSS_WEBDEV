@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(44, 68, 106);
+    color:white;
+    font-family: 'Times New Roman',serif;
+    padding: 20px;
+}
+
+h1 {
+    color:white;
+    font-size: 25px;
+}
+
+.color {
+    color:red;
+
+}
+
+.font-size {
+    font-size: 80px;
+    font-family: 'Times New Roman', serif;
+}
+
+.font-weight {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.font-family {
+    font-size: 25px;
+    font-family: cursive;
+    font-style: italic;
+}
+
+.text-align {
+    font-size: 25px;
+    text-align: right;
+}

@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 25px 10px;
+    font-family: "Times New Roman", serif;
+}
+
+h1 {
+    color: blueviolet;
+    font-size: 48px;
+    margin: 0 0 35px 0;
+}
+
+h2 {
+    color: blueviolet;
+    font-size: 36px;
+    margin: 0 0 28px 0;
+}
+
+.today {
+    color: firebrick;
+    font-size: 25px;
+    margin: 0 0 23px 0;
+}
+
+ul {
+    font-size: 24px;
+    margin: 0;
+    padding-left: 59px;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.other {
+    font-size: 14px;
+    margin-left: 59px;
+    margin-top: 25px;
+}
+
+.quote {
+    font-size: 25px;
+    margin-top: 25px;
+}
